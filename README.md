@@ -78,6 +78,10 @@ Spending money won't necessarily make a good movie, but an increase in productio
 
 In the future, I would like to identify the best writers, most likely gathering their names from the most popular movies in the TMDB csv, as I did with the directors.
 
+## Future Work
+
+It is critical that we continue to explore what makes films successful - including marketing, licensing agreements in foreign countries, children's toys of characters, video games about the books & movies, date of release, actors, and writers. These topics are crucial to the success of Microsoft Studios and I look forward to researching, data-crunching, and providing suggestions on next-steps for our first movie.
+
 ## For More Information
 
 Please review our full analysis in [our Jupyter Notebook](.Phase 1 Project - Microsoft Studios Proposal - Jim Petoskey.ipynb) or our [presentation](.v1_Phase 1 Project Presentation - Microsoft Studios - Jim Petoskey.pdf).
